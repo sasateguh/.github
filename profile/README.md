@@ -16,8 +16,8 @@ Malaysian studio, three divisions: **Digital** builds websites found on Google a
 
 #### Work with us
 
+[![Work with Sasa Teguh: book a call](https://raw.githubusercontent.com/sasateguh/.github/main/assets/work-with-sasa-teguh.png)](https://sasateguh.com/book)
+
 We build websites that are found on Google and in AI answers, and we set up systems like the projects above for businesses.
 
 [Book a call](https://sasateguh.com/book) · hello@sasateguh.com
-
-[sasateguh.com](https://sasateguh.com)
