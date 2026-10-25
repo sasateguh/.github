@@ -12,6 +12,7 @@ Malaysian studio, three divisions: **Digital** builds websites found on Google a
 | [awesome-ai-search-visibility](https://github.com/sasateguh/awesome-ai-search-visibility) | Ranked, weekly-updated list of open-source tools and research for generative engine optimization (GEO) and AI search visibility |
 | [awesome-malaysia-payments](https://github.com/sasateguh/awesome-malaysia-payments) | Ranked, weekly-updated list of open-source SDKs and plugins for Malaysian payment gateways such as Billplz, toyyibPay, CHIP and iPay88 |
 | [awesome-payload-cms](https://github.com/sasateguh/awesome-payload-cms) | Ranked, weekly-updated list of open-source plugins, templates and apps for Payload CMS |
+| [awesome-ai-video-for-creators](https://github.com/sasateguh/awesome-ai-video-for-creators) | Ranked, weekly-updated list of open-source AI tools that edit and produce short videos: captions, clipping, silence removal, dubbing and programmatic video |
 
 #### Work with us
 
