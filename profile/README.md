@@ -15,6 +15,7 @@ Malaysian studio, three divisions: **Digital** builds websites found on Google a
 | [awesome-ai-video-for-creators](https://github.com/sasateguh/awesome-ai-video-for-creators) | Ranked, weekly-updated list of open-source AI tools that edit and produce short videos: captions, clipping, silence removal, dubbing and programmatic video |
 | [self-host-ai-agent](https://github.com/sasateguh/self-host-ai-agent) | Tested step-by-step guide to self-hosting an AI agent such as Hermes Agent or OpenClaw on an Ubuntu VPS, in English and Malay (Shell) |
 | [bayarkit](https://github.com/sasateguh/bayarkit) | Malaysian payment gateways behind one interface for TypeScript and PHP/Laravel, marking a payment paid only after signature, fresh gateway query and exact match (TypeScript) |
+| [awesome-claude-motion-prompts](https://github.com/sasateguh/awesome-claude-motion-prompts) | Claude prompts for motion graphics and short-form reels in English and Malay, each shown with the video it produced, plus ranked open-source motion tools |
 
 #### Work with us
 
