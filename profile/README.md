@@ -8,16 +8,16 @@ Malaysian studio, three divisions: **Digital** builds websites found on Google a
 
 | Project | What it does |
 |---|---|
+| [mypii](https://github.com/sasateguh/mypii) | Malaysian PII recognizers (MyKad, SSM, phone) for Presidio, with a synthetic Malay, English and Manglish benchmark; `pip install mypii` ([PyPI](https://pypi.org/project/mypii/), [DOI](https://doi.org/10.5281/zenodo.24014252)) (Python) |
 | [codr](https://github.com/sasateguh/codr) | Self-hosted git forge in one Go binary: plain bare git repositories next to one SQLite file, SSH and HTTPS, issues, pull requests and CI, in English and Malay (Go) |
+| [bayarkit](https://github.com/sasateguh/bayarkit) | Malaysian payment gateways behind one interface for TypeScript and PHP/Laravel, marking a payment paid only after signature, fresh gateway query and exact match (TypeScript) |
 | [office-ai-tutor](https://github.com/sasateguh/office-ai-tutor) | Microsoft Office tutor in English and Bahasa Melayu: cheat sheets, searchable references, auto-checked exercises, an in-browser Excel formula lab and an AI tutor. It runs [Sasa Teguh Academy](https://academy.sasateguh.com) (PHP) |
+| [self-host-ai-agent](https://github.com/sasateguh/self-host-ai-agent) | Tested step-by-step guide to self-hosting an AI agent such as Hermes Agent or OpenClaw on an Ubuntu VPS, in English and Malay (Shell) |
 | [awesome-ai-search-visibility](https://github.com/sasateguh/awesome-ai-search-visibility) | Ranked, weekly-updated list of open-source tools and research for generative engine optimization (GEO) and AI search visibility |
 | [awesome-malaysia-payments](https://github.com/sasateguh/awesome-malaysia-payments) | Ranked, weekly-updated list of open-source SDKs and plugins for Malaysian payment gateways such as Billplz, toyyibPay, CHIP and iPay88 |
 | [awesome-payload-cms](https://github.com/sasateguh/awesome-payload-cms) | Ranked, weekly-updated list of open-source plugins, templates and apps for Payload CMS |
 | [awesome-ai-video-for-creators](https://github.com/sasateguh/awesome-ai-video-for-creators) | Ranked, weekly-updated list of open-source AI tools that edit and produce short videos: captions, clipping, silence removal, dubbing and programmatic video |
-| [self-host-ai-agent](https://github.com/sasateguh/self-host-ai-agent) | Tested step-by-step guide to self-hosting an AI agent such as Hermes Agent or OpenClaw on an Ubuntu VPS, in English and Malay (Shell) |
-| [bayarkit](https://github.com/sasateguh/bayarkit) | Malaysian payment gateways behind one interface for TypeScript and PHP/Laravel, marking a payment paid only after signature, fresh gateway query and exact match (TypeScript) |
 | [awesome-claude-motion-prompts](https://github.com/sasateguh/awesome-claude-motion-prompts) | Claude prompts for motion graphics and short-form reels in English and Malay, each shown with the video it produced, plus ranked open-source motion tools |
-| [mypii](https://github.com/sasateguh/mypii) | Malaysian PII recognizers (MyKad, SSM, phone) for Presidio, with a synthetic Malay, English and Manglish benchmark (Python) |
 
 #### Work with us
 
