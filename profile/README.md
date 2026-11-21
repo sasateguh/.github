@@ -18,6 +18,7 @@ Malaysian studio, three divisions: **Digital** builds websites found on Google a
 | [awesome-payload-cms](https://github.com/sasateguh/awesome-payload-cms) | Ranked, weekly-updated list of open-source plugins, templates and apps for Payload CMS |
 | [awesome-ai-video-for-creators](https://github.com/sasateguh/awesome-ai-video-for-creators) | Ranked, weekly-updated list of open-source AI tools that edit and produce short videos: captions, clipping, silence removal, dubbing and programmatic video |
 | [awesome-claude-motion-prompts](https://github.com/sasateguh/awesome-claude-motion-prompts) | Claude prompts for motion graphics and short-form reels in English and Malay, each shown with the video it produced, plus ranked open-source motion tools |
+| [mutawwif-bench](https://github.com/sasateguh/mutawwif-bench) | Test set for AI agents that help umrah group guides: ruling questions labelled with official fatwas, prompt-injection messages and a scoring script (Python) |
 
 #### Work with us
 
